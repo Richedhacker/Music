@@ -29,8 +29,6 @@ services:
         value: "-1002657124059"
       - key: SUPPORT_GROUP
         value: "https://t.me/+ROUNPC4Y8QQzYjZl"
-      - key: SUPPORT_CHANNEL
-        value: "https://t.me/+MdjhJJTGL180N2Y9"
       - key: COOKIE_URL
         value: "# Netscape HTTP Cookie File
 # https://curl.haxx.se/rfc/cookie_spec.html

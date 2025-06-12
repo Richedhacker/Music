@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://files.catbox.moe/eehxb4.jpg" alt="Richedmusicbot Logo" width="500px">
+<img src="https://graph.org/file/e6a168e4bcabd279222c1-87824a6c21a8c24055.jpg" alt="Richedmusicbot Logo" width="500px">
 </p>
 
 <h1 align="center">🎵 Riched music  bot 🎵</h1>
